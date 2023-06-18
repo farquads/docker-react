@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to relkay
+          Edit <code>src/App.js</code> pushing up, is it updated?
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          pushing up from git to travis to aws
+          learn react
         </a>
       </header>
     </div>
