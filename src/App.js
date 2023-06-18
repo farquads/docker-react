@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          learn react
+          pushing up from git to travis to aws
         </a>
       </header>
     </div>
